@@ -1,13 +1,13 @@
 <?php
  
-   /**
+       /**
 	* File Main
 	* created at 	11.07.16
 	* last updated 	04.08.16
-	* @author 		Alex
+	* @author 	Alex
 	* @copyright	Copyright (c) 2013 - 2016, LUMUT
-    * @copyright	Copyright (c) 2013 - 2016, R.D.U
-    * @version 		4.8.9.8
+    	* @copyright	Copyright (c) 2013 - 2016, R.D.U
+    	* @version 	4.8.9.8
 	*/
 	
 	date_default_timezone_set('Asia/Makassar');
