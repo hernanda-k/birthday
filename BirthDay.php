@@ -1,13 +1,13 @@
 <?php
 
-   /**
+       /**
 	* Class BirthDay
 	* created at 	14.07.16  
 	* last updated 	15.07.16
-	* @author 		Alex 
+	* @author 	Alex 
 	* @copyright	Copyright (c) 2013 - 2016, LUMUT
-    * @copyright	Copyright (c) 2013 - 2016, R.D.U
-    * @version 		4.8.9.8
+        * @copyright	Copyright (c) 2013 - 2016, R.D.U
+        * @version 	4.8.9.8
 	*/
 	
  	class BirthDay {
