@@ -7,7 +7,7 @@
 	* @author 	Alex
 	* @copyright 	Copyright (c) 2013 - 2016, LUMUT
     	* @copyright	Copyright (c) 2013 - 2016, R.D.U
-	 * @version 	4.8.9.8
+	* @version 	4.8.9.8
 	*/
 	
  	class Person {
