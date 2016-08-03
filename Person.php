@@ -1,13 +1,13 @@
 <?php
 
-   /**
+       /**
 	* Class Person
 	* created at 	08.07.16 
 	* last updated 	14.07.16
-	* @author 		alex
+	* @author 	Alex
 	* @copyright 	Copyright (c) 2013 - 2016, LUMUT
-    * @copyright	Copyright (c) 2013 - 2016, R.D.U
-    * @version 		4.8.9.8
+    	* @copyright	Copyright (c) 2013 - 2016, R.D.U
+	 * @version 	4.8.9.8
 	*/
 	
  	class Person {
